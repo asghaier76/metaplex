@@ -9,7 +9,7 @@
     "@oyster/common": "0.0.1",
     "@project-serum/serum": "^0.13.34",
     "@project-serum/sol-wallet-adapter": "^0.2.0",
-    "@solana/spl-name-service": "0.1.2",
+    "@solana/spl-name-service": "0.1.4",
     "@solana/spl-token": "0.1.4",
     "@solana/spl-token-registry": "^0.2.131",
     "@solana/spl-token-swap": "0.1.0",
@@ -33,10 +33,10 @@
     "react-intersection-observer": "^8.32.0",
     "react-masonry-css": "^1.0.16",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "5.0.0",
     "react-virtualized": "^9.22.3",
     "three": "^0.128.0",
-    "use-wallet": "^0.8.1"
+    "use-wallet": "^0.9.0"
   },
   "scripts": {
     "prestart": "npm-link-shared ../common/node_modules/ . react",
