@@ -15,8 +15,8 @@
     "@solana/spl-token-swap": "0.1.0",
     "@solana/wallet-base": "0.0.1",
     "@solana/wallet-ledger": "0.0.1",
-    "@solana/web3.js": "^1.10.0",
-    "@toruslabs/openlogin": "0.9.0",
+    "@solana/web3.js": "^1.54.1",
+    "@toruslabs/openlogin": "8.0.0",
     "@toruslabs/openlogin-ed25519": "0.9.0",
     "@toruslabs/openlogin-utils": "0.9.0",
     "@welldone-software/why-did-you-render": "^6.0.5",
@@ -36,7 +36,7 @@
     "react-scripts": "3.4.3",
     "react-virtualized": "^9.22.3",
     "three": "^0.128.0",
-    "use-wallet": "^0.8.1"
+    "use-wallet": "^0.9.0"
   },
   "scripts": {
     "prestart": "npm-link-shared ../common/node_modules/ . react",
