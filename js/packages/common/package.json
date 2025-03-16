@@ -35,7 +35,7 @@
     "@solana/wallet-ledger": "0.0.1",
     "@solana/web3.js": "^1.10.0",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
+    "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^7.2.1",
     "@types/chart.js": "^2.9.29",
     "@types/echarts": "^4.9.0",
