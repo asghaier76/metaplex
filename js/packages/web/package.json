@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "dependencies": {
-    "@ant-design/icons": "^4.4.0",
+    "@ant-design/icons": "^6.0.0",
     "@babel/preset-typescript": "^7.12.13",
     "@cloudflare/stream-react": "^1.1.0",
     "@craco/craco": "^5.7.0",
@@ -12,10 +12,10 @@
     "@solana/spl-name-service": "0.1.2",
     "@solana/spl-token": "0.1.4",
     "@solana/spl-token-registry": "^0.2.131",
-    "@solana/spl-token-swap": "0.1.0",
+    "@solana/spl-token-swap": "0.4.3",
     "@solana/wallet-base": "0.0.1",
     "@solana/wallet-ledger": "0.0.1",
-    "@solana/web3.js": "^1.10.0",
+    "@solana/web3.js": "^1.91.8",
     "@toruslabs/openlogin": "0.9.0",
     "@toruslabs/openlogin-ed25519": "0.9.0",
     "@toruslabs/openlogin-utils": "0.9.0",
@@ -32,11 +32,11 @@
     "react-dom": "16.13.1",
     "react-intersection-observer": "^8.32.0",
     "react-masonry-css": "^1.0.16",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "5.0.0",
     "react-virtualized": "^9.22.3",
     "three": "^0.128.0",
-    "use-wallet": "^0.8.1"
+    "use-wallet": "^0.9.0"
   },
   "scripts": {
     "prestart": "npm-link-shared ../common/node_modules/ . react",
